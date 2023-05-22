@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Tableau](#tableau)
-- [Power Bi](#Power bi)
+- [PowerBi](#PowerBi)
 
 
 # SQL
@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Project Link |
 |---|---|---|
 
-# Power Bi
+# PowerBi
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
