@@ -4,7 +4,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 - [SQL](#sql)
-- [Tableau](#tableau)
 - [PowerBi](#PowerBi)
 
 
@@ -20,12 +19,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🎣 [Clique Bait]  |  
 | 🍒 [Fresh Segments] |  
 
-
-
-# Tableau
-
-| Project Link | Project Description | 
-|---|---|
 
 # PowerBi
 
