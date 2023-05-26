@@ -34,4 +34,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | [Call Center Trend Analysis](https://github.com/Harshita290/Power-Bi-Projects/tree/main/Forage%20Internship/Call%20Centre%20Trend%20Analysis) | Cleansed and visualized data for the call center, I showcased key metrics and trends that can help optimize call centre operations and enhance customer satisfaction. |
 | [Customer Retention](https://github.com/Harshita290/Power-Bi-Projects/tree/main/Forage%20Internship/Customer%20Retention) |
 | [Diversity and Inclusion Analysis](https://github.com/Harshita290/Power-Bi-Projects/tree/main/Forage%20Internship/Diversity%20and%20Inclusion%20Analysis) |
+| [Covid Analysis](https://github.com/Harshita290/Power-Bi-Projects/tree/main/Sparks%20Foundation) |
 
